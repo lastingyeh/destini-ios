@@ -15,7 +15,7 @@ Syntax
 
 ### Display
 
-
+ ![alt tag](https://github.com/lastingyeh/destini-ios/blob/master/destini.gif)
 
 
 ### all resources and copyright by   
